@@ -1,11 +1,28 @@
+# Real-Time College Bus Location and GPS Tracking System
 
-  # Untitled
+## Project Overview
+A web-based college bus tracking system that helps students track buses, view routes, and monitor bus locations in real time.
 
-  This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/4UmvOkBl7f9TecOFgYkISi/Untitled.
+## Features
+- Real-time bus location tracking
+- Bus route and stop information
+- Live location updates
+- Notifications when buses approach stops
+- Alerts for delays and route changes
+- Admin dashboard
 
-  ## Running the code
+## Technologies Used
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
 
-  Run `npm i` to install the dependencies.
+## Installation
+1. Clone the repository.
+2. Install dependencies:
+   npm install
+3. Start the application:
+   npm run dev
 
-  Run `npm run dev` to start the development server.
-  
+## Author
+Gurrala Lavanya
